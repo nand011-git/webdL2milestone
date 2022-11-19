@@ -1,0 +1,30 @@
+h1, h2{
+    text-align: center;
+    color: red;
+}
+  
+  body{
+    margin: 300 300;
+  }
+  .container{
+    padding: 20px;
+    background-color: white;
+
+  }
+  table{
+    font-family : Arial;
+    font-size: 100%;
+    font-weight: bold;
+    background-color: beige;
+    border-style: solid;
+    text-align: center;
+    color: blue;
+    
+  }
+    
+  
+td, th {
+    text-align: left;
+    padding: 10px;
+    border:1px solid whitesmoke;
+}
